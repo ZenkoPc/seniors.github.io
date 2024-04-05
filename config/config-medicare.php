@@ -10,6 +10,6 @@ $ringbaScriptPrimary = `<script type="text/JavaScript">
 console.log("waiting for functionality"); 
 </script>`;
 
-$mbOfferSite = "/stldental/index.php";
+$mbOfferSite = "index.php";
 
 ?>
